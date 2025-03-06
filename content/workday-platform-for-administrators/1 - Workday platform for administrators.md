@@ -345,7 +345,7 @@ All organizations share some fundamental characteristics and structural aspects.
 
 Organization hierarchies reflect different organizational rollups for reporting purposes. In addition to reporting, setting up hierarchies helps streamline business process routing, security, and analysis. You can change how you roll up organizations at any point. Hierarchical organization types support security and inheritance of organizational roles down the hierarchy. Note that an organization hierarchy can only include organizations (or organization hierarchies) of its associated type. For example, cost center hierarchies store cost centers, company hierarchies store companies, location hierarchies store locations, and regional hierarchies store regions.
 
-![[organizational-hierarchy.png]]
+![image](organizational-hierarchy.png)
 
 Organization hierarchy key points.
 - The organization administrator or the hierarchy owner assigns included organizations to a hierarchy.
@@ -369,7 +369,7 @@ Note that in the Allowed Organizations field, you can enter more than one organi
 
 (Select the image to zoom in and out.)
 
-![[organization-assignments-on-supervisory-organization.png]]
+![image](organization-assignments-on-supervisory-organization.png)
 
 ##### Organization assignments on locations
 
@@ -377,7 +377,7 @@ When creating or editing a location hierarchy, you can also restrict other organ
 
 The Organization Assignments tab of a location hierarchy identifies these assignments, as shown in the screenshot below.
 
-![[organization-assignments-on-location.png]]
+![image](./images/organization-assignments-on-location.png)
 
 ##### Additional options
 
@@ -394,7 +394,7 @@ You can assign individual workers to several organization types. This includes a
 
 💡Keep in mind that every worker belongs to only one supervisory organization unless you enable and use the Multiple Job functionality in Workday. Below is an image showing how Workday has categorized employees by company, cost center, and region. However, all the workers belong to the same supervisory organization.
 
-![[workday-categorization-by-organization-costcenter.png]]
+![image](./images/workday-categorization-by-organization-costcenter.png)
 
 #### Manage organizations
 
