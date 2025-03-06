@@ -1,13 +1,3 @@
----
-tags:
-  - learning
-domain: 
-type: 
-environment: 
-aliases: 
-date_created: 2025-03-04
----
-
 ## Configurable security framework
 
 ### Function areas overview

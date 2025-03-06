@@ -1,15 +1,3 @@
----
-tags:
-  - learning
-domain: 
-type: 
-environment: 
-aliases: 
-date_created: 2025-03-04
----
-
-## 
-
 
 > [!WARNING] Warning
 > Check email for information about the availability to workday training tenant.

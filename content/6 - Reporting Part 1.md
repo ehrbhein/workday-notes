@@ -1,13 +1,3 @@
----
-tags:
-  - learning
-domain:
-type:
-environment:
-alias:
-date_created: 2025-03-06
----
-
 ## Introduction to workday reporting
 
 ### Reports in workday

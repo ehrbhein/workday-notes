@@ -1,14 +1,3 @@
----
-tags: 
-  - learning
-domain: 
-type: 
-environment: 
-alias: 
-date_created: 2025-03-05
----
-
-
 ## Business process framework
 
 The Workday business process framework connects your data, security, and organizational structures to mimic real-life business workflows. This framework keeps processes consistent across Workday applications and creates centralized audit trails.
