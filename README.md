@@ -7,15 +7,17 @@
 This repository contains notes of the required training of the workday "innovation partner training program".
 
 Contents include notes for the following courses:
-1. Workday platform for administrators
+- 📌 Workday platform for administrators
 
 
 ### Workday Platform for Administrators
 
-- 1 - Workday platform for administrators.md
-- 2 -  Tenants and release management.md
-- 3 - Security Part 1.md
-- 4 - Security Part 2.md
-- 5 - Business Processes.md
-- 6 - Reporting Part 1.md
-- 7 - Reporting Part 2.md
+- [1 - Workday platform for administrators.md](./content/workday-platform-for-administrators/1-Workday-platform-for-administrators.md)
+- [2 -  Tenants and release management.md](./content/workday-platform-for-administrators/2-Tenants-and-release-management.md)
+- [3 - Security Part 1.md](./content/workday-platform-for-administrators/3-Security-Part-1.md)
+- [4 - Security Part 2.md](./content/workday-platform-for-administrators/4-Security-Part-2.md)
+- [5 - Business Processes.md](./content/workday-platform-for-administrators/5-Business-Processes.md)
+- [6 - Reporting Part 1.md](./content/workday-platform-for-administrators/6-Reporting-Part-1.md)
+- [7 - Reporting Part 2.md](./content/workday-platform-for-administrators/7-Reporting-Part-2.md)
+- [8 - Integrations Part 1.md](./content/workday-platform-for-administrators/8-Integrations-Part-1.md)
+- [9 - Integrations Part 2.md](./content/workday-platform-for-administrators/9-Integrations-Part-2.md)
