@@ -231,35 +231,35 @@ Testing reports usually involves running a report or dashboard as a user and ver
 ##### Activity: test a custom report
 
 **Task 1: Choose a member of the security group**
-    1. Sign in as Logan McNeil (lmcneil).
-    1. Run the View Security Group report for the Manager security group. 
-    1. Select the Manager assignable role to view the members.
-    1. Sign in or start proxy as one of the members, for example, Helen Meyer or Beth Liu.
+  1. Sign in as Logan McNeil (lmcneil).
+  1. Run the View Security Group report for the Manager security group. 
+  1. Select the Manager assignable role to view the members.
+  1. Sign in or start proxy as one of the members, for example, Helen Meyer or Beth Liu.
 
 
 **Task 2: Verify direct reports**
-    1. To verify which workers your chosen manager should be able to view in the report output, select the manager's profile icon > View Profile.
-    1. Select the Team button.
-    1. Alternatively, there are many reports that show a manager's direct reports, such as My Team Members.
+  1. To verify which workers your chosen manager should be able to view in the report output, select the manager's profile icon > View Profile.
+  1. Select the Team button.
+  1. Alternatively, there are many reports that show a manager's direct reports, such as My Team Members.
 
 
 **Task 3: Run the report**
-    1. In the Search box, search for employees potential.
-    1. Select the Employees Potential report to run the report and examine the output.
-    1. Optionally, proxy in as another manager and repeat tasks 2-3 to double-check results.
+  1. In the Search box, search for employees potential.
+  1. Select the Employees Potential report to run the report and examine the output.
+  1. Optionally, proxy in as another manager and repeat tasks 2-3 to double-check results.
 
 ##### Activity: test a dashboard
 
 **Task 1: Choose a member of the security group**
-    1. Sign in as Logan McNeil (lmcneil).
-    1. Run the View Security Group report for the Recruiter security group. 
-    1. Select the Recruiter assignable role to view those assigned. 
-    1. Sign in or start proxy as Carmen Cortes, James Moore, Jacqueline Desjardins, or Johannes Koch. 
+  1. Sign in as Logan McNeil (lmcneil).
+  1. Run the View Security Group report for the Recruiter security group. 
+  1. Select the Recruiter assignable role to view those assigned. 
+  1. Sign in or start proxy as Carmen Cortes, James Moore, Jacqueline Desjardins, or Johannes Koch. 
 
 **Task 2: Run the dashboard**
-    1. From the Home page, search for Recruiting Talent Search.
-    1. Select the Recruiting Talent Search dashboard.
-    1. Notice that the Compare Workers in Succession Pool worklet does not appear. Also, if you proxied in as James Moore, Jacqueline Desjardins, or Johannes Koch, you will notice data missing for one or more worklets.
+  1. From the Home page, search for Recruiting Talent Search.
+  1. Select the Recruiting Talent Search dashboard.
+  1. Notice that the Compare Workers in Succession Pool worklet does not appear. Also, if you proxied in as James Moore, Jacqueline Desjardins, or Johannes Koch, you will notice data missing for one or more worklets.
 
 
 ### Key takeaways
