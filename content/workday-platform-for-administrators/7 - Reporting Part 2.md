@@ -306,5 +306,62 @@ The following table shows common report access issues that users face when runni
 
 ### Activity notes
 
+#### Activity 1: troubleshoot a dashboard
+
+**Hint 1:**
+
+Rule out any security access issues. Remember that custom worklets are custom reports, and a user must have proper access to the report in order to view the worklet.
+
+**Hint 2:**
+
+Use the Maintain Dashboards report to view the dashboard configuration.
+
+**Hint 3:**
+
+Edit the dashboard and expand the Worklets section to identify the issue with the worklet.
+
+#### Activity 2: analyze difference in two report outputs
+
+**Hint 1:**
+
+Run the report as each user to understand the difference in output. 
+
+**Hint 2:**
+
+Check Anthony and Logan's security on the data source by selecting its Related Actions > Security > Security Analysis for Securable Item and Account.
+
+#### Checking your work
+
+From the Headcount by Year report definition, select the data source's Related Actions. Then, select Security > Security Analysis for Securable Item and Account. As shown in the image below, Anthony Rizzo only has constrained access to the Trended Worker Data domain, which secures the Trended Worker data source. 
+
+![image](./images/check-you-work-1.png)
+
+
+On the other hand, as shown in the image below, Logan McNeil is a member of HR Administrator, which is a user-based security group. User-based security groups have unconstrained access, meaning Logan can view all trended worker data. This explains why Logan has more rows in her report output. 
+
+![image](./images/check-you-work-2.png)
+
+
+#### Activity 3: Determine the root cause of a runtime error
+
+Business case:
+
+Julie Boyer has informed Logan that she can't run a report. When she attempts to access it from the Search box, she receives the error message: The entered information does not meet the restrictions defined for this field (Managerial Organizations and Hierarchies for Workers by Organization (including Company and Supervisory Org) for Planning RDS (Secured).
+
+As Logan, find the cause of the issue and propose a solution.
+
+![image](./images/runtime-error-activity.png)
+
+Although there are several ways to find the cause of the issue and solve for it, in the following simulation, you'll follow these steps:
+
+1. Check user's security access to data source filter
+2. Review user's security group access
+3. Compare user's security access to report definition
+4. Proposed solution
+
 
 ### Key takeaways
+
+- When troubleshooting, check a user's security access to a report's data source, data source filters, and report fields. 
+- After checking security access, explore a report or dashboard's definition. Often, that is where you will be able to catch root issues. 
+- If you can, test a report or dashboard as another user. This can help you narrow down the root cause, especially if it has to do with security access. 
