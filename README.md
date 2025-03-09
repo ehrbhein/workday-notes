@@ -1,7 +1,7 @@
 ## workday-notes
 
 ![worday](https://img.shields.io/badge/workday-blue)
-![workday-partnership-integration](https://img.shields.io/badge/workday_partnership_integration-blue)
+![workday-innovation-partner](https://img.shields.io/badge/workday_innovation_partner-blue)
 ![notes](https://img.shields.io/badge/notes-yellow)
 
 This repository contains notes of the required training of the workday [innovation partner training program](https://community-content.workday.com/content/workday-community/en-us/reference/learn/innovation-partner-basecamp/innovation-partner-training-program.html#accordion-615d9c7864-item-de6356b655).

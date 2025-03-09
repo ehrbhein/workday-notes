@@ -1,5 +1,5 @@
 
-> [!WARNING] Warning
+> ⚠️ Warning:
 > Check email for information about the availability to workday training tenant.
 > - Training tenant has start and end date, so plan to finish the course accordingly before tenant expires.
 
@@ -81,7 +81,7 @@ Ways to perform actions on objects
 2. Select an object's related actions icon to display a menu with actionable tasks.
 
 
-> [!INFO] Info
+> ℹ️ Info:
 > Sometimes, depending on where the related actions menu displays on a page, the object might display as an actions button instead of a related actions icon. Regardless of appearance, they provide the same functionality.
 
 
@@ -133,7 +133,7 @@ Ways to perform actions on objects
 - **Recommended for you** - The Recommended for You section displays the Explore Org Chart and View Your Profile cards, by default. You can personalize this section by adding one or more relevant cards, or removing this section by unpublishing the cards.
 
 
-> [!INFO] Info
+> ℹ️ Info:
 > Accessibility in Workday is available to all users upon signing into Workday. This doesn't require any additional configuration in the _Edit Tenant Setup_ tasks. Workday Accessibility optimizes tasks for users on assistive technology. You can familiarize yourself with accessibility in the Workday user interface, by accessing the _Accessibility Interaction Overview_ task.  
 > 
 > To improve legibility, you can enable blue buttons in any tenant. Access the _Edit Tenant Setup - System_ task and select Enable Blue Primary Buttons.
@@ -295,7 +295,7 @@ You can define each organization type to reflect your business requirements. Use
 9. **Custom organization** - Used to group workers into logical constructs, if an existing Workday-delivered organization type does not meet your needs. Custom organizations are configurable and customer-defined.
 
 
-> [!SUCCESS] Info
+> ✅ Info:
 > Some organization types have a corresponding hierarchy for grouping organizations to represent a structure.
 
 **Some things to note**

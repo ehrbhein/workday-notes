@@ -96,7 +96,7 @@ The _View Security for Securable Item_ report determines how Workday secures a
 There may be instances where you need to know how a certain user has access to a securable item. For this, you can use the _Security Analysis for Securable Item and Account_ report.
 
 
-> [!TIP] Tip
+> 💲 Tip:
 > You can use the shortcut, "secura" in the Search box to bring up both reports.
 
 ### Security permissions

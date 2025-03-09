@@ -265,7 +265,7 @@ ID definitions specify the format of identifiers (IDs) that Workday generates fo
 
 You can create as many ID definitions and sequence generators as you need. The _Edit Tenant Setup_ tasks allow you to select default ID definitions for Workday to use for invoices, orders, receipts, employees, beneficiaries, and so on. If an ID definition in not selected, Workday generates its own internal ID codes.
 
-> [!INFO] Info
+> ℹ️ Info:
 > You can create both sequence generator types, but Workday determines which types you can specify on an _Edit Tenant Setup_ task for a given situation. For example, you can't use gapless sequence generators for spend authorizations, but you can use them for miscellaneous payment requests on the _Edit Tenant Setup - Financials_ task.
 
 Fields on workday sequence generator:
