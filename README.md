@@ -8,6 +8,7 @@ This repository contains notes of the required training of the workday "innovati
 
 Contents include notes for the following courses:
 - 📌 Workday platform for administrators
+- 📌 Workday REST APIs
 
 
 ### Workday Platform for Administrators
@@ -21,3 +22,8 @@ Contents include notes for the following courses:
 - [7 - Reporting Part 2.md](./content/workday-platform-for-administrators/7-Reporting-Part-2.md)
 - [8 - Integrations Part 1.md](./content/workday-platform-for-administrators/8-Integrations-Part-1.md)
 - [9 - Integrations Part 2.md](./content/workday-platform-for-administrators/9-Integrations-Part-2.md)
+
+
+### Workday REST APIs
+
+- [Workday REST API.md](./content/workday-rest-api.md)
