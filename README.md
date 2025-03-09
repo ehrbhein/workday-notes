@@ -9,7 +9,9 @@ This repository contains notes of the required training of the workday "innovati
 Contents include notes for the following courses:
 - 📌 Workday platform for administrators
 - 📌 Workday REST APIs
-
+- 📌 Workday Web Services
+- 📌 Proxy Access
+- 📌 Software Partner Integration Development Expectations
 
 ### Workday Platform for Administrators
 
@@ -27,3 +29,16 @@ Contents include notes for the following courses:
 ### Workday REST APIs
 
 - [Workday REST API.md](./content/workday-rest-api.md)
+
+### Workday Web Services
+
+- [Workday Web Services](./content/Workday-Web-Services.md)
+
+### Proxy access
+
+- [Proxy Access Policy](./content/Proxy-Acces-Policy.md)
+
+### Software Partner Integration Development Expectations
+
+- [Software Partner Integration Development Expectations](./content/Software-Partner-Integration-Development-Expectations.md)
+
